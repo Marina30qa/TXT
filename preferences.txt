@@ -1,0 +1,5 @@
+favourite_movie: Время,
+	favourite_series: Триггер,
+	favourite_food: лазанья,
+	favourite_time_of_the_year: весна,
+	the_country_you_would_like_to_visit: Египет

@@ -1,0 +1,5 @@
+basic_theory: багрепорты, документация, виды,
+	http_methods: GET, POST, PUT,
+	http_codes: 200, 201, 400, 404, 500, 502,
+	api_testing: JS, автотесты API,
+	dev_tools_web_browsers: Google Chrome, FireFox
